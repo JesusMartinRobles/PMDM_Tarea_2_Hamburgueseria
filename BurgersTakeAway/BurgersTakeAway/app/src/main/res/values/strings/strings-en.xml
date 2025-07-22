@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BurgersTakeAway</string>
+    <string-array name="arrayRecogida">
+        <item>Establishment</item>
+        <item>Home delivery</item>
+    </string-array>
+    <string name="toolbarTitleAyuda">Help</string>
+    <string name="toolbarLogin">Register</string>
+    <string name="toolbarPedido">Food</string>
+    <string name="toolbarDrink">Drink</string>
+    <string name="toolbarResumen">Summary</string>
+    <string name="btnAtras">Back</string>
+    <string name="btnAAdd"> + </string>
+    <string name="btnNext">Next</string>
+    <string name="btnVolver">Back</string>
+    <string name="btnClear">Clear</string>
+    <string name="lblBuerger1">BBQ Burger</string>
+    <string name="lblBuerger3">Cheese Burger</string>
+    <string name="lblBuerger2">M30 Burger</string>
+    <string name="picerBurguer1">Price: 11.95 €</string>
+    <string name="picerBurguer2">Price: 13.95 €</string>
+    <string name="picerBurguer3">Price: 13.50 €</string>
+    <string name="drink1">Pepsi</string>
+    <string name="drink2">Water</string>
+    <string name="drink3">Alhambra</string>
+    <string name="drink4">Kas</string>
+    <string name="priceDrink1">Price: 2.30 €</string>
+    <string name="priceDrink2">Price: 1.50 €</string>
+    <string name="priceDrink3">Price: 2.50 €</string>
+    <string name="priceDrink4">Price: 2.50 €</string>
+    <string name="lblName">Name</string>
+    <string name="lblPhone">Phone</string>
+    <string name="lblDireccion">Address</string>
+    <string name="lblVegano">Vegan</string>
+    <string name="lblRecogida">Pickup</string>
+    <string name="btnPedido">Place Order</string>
+    <string name="error">Error</string>
+    <string name="pedidoProductos">Order without products</string>
+    <string name="burguerEmpty">You must select at least one burger</string>
+    <string name="datosIncorrectos">Incorrect Data</string>
+    <string name="datosIncorrectosmsm">All data is mandatory, and the phone must have 9 digits</string>
+    <string name="OK">OK</string>
+    <string name="lblAyuda">Help</string>
+    <string name="lblAcercaDe">About</string>
+    <string name="txtAcerca1">Burgers Take Away</string>
+    <string name="txtAcerca2">© 2023 Jesus Martin Robles</string>
+    <string name="txtAyuda">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque blandit lacus vel consectetur pretium. Morbi aliquam dolor non bibendum feugiat. Praesent ac tincidunt elit. Nunc at erat lorem. Phasellus nec eros nibh. Suspendisse in commodo felis. Fusce sit amet lectus eget tellus vehicula interdum. Cras nulla augue, dapibus quis ligula et, mollis rutrum odio. Ut vitae cursus sapien, vel tristique diam. Phasellus sed rutrum neque, id commodo arcu. Vivamus eget neque non justo cursus sodales lacinia a nisl.
+
+Proin molestie ullamcorper libero nec euismod. Fusce eleifend vestibulum mattis. Ut dictum libero eu faucibus sodales. Fusce accumsan ornare urna, a scelerisque tellus pellentesque eu. Nulla aliquet erat in ultrices volutpat. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse tincidunt ante ac efficitur suscipit. Phasellus sagittis diam ut cursus pulvinar. Nulla facilisi. Phasellus id diam vulputate, pretium lorem eget, aliquam eros. Fusce vel dolor fringilla dui gravida cursus. Nam fringilla est purus. Integer auctor, lectus rutrum placerat dignissim, odio lectus commodo augue, accumsan blandit tellus lacus eget velit.
+
+Proin vitae euismod urna. Duis dui dui, bibendum aliquam erat eu, iaculis tincidunt urna. Sed quis erat ac lacus bibendum tempus vitae interdum nisi. Nullam quis augue ultricies massa dignissim interdum a semper mi. Nulla consectetur convallis ex sit amet lacinia. Maecenas ullamcorper lacinia dolor, consequat tincidunt odio condimentum eu. Fusce venenatis eros est, eget tincidunt urna rutrum quis. Quisque ut imperdiet nisi. Quisque hendrerit volutpat justo sit amet mollis. Nullam a ipsum eros. Fusce vel nunc bibendum, varius ex id, ultrices felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec at suscipit metus. Donec ullamcorper lacus et ante consequat, eu facilisis enim malesuada. Ut mattis fermentum orci non luctus.
+
+Vestibulum ut purus faucibus, bibendum nunc vel, faucibus enim. Praesent urna velit, dapibus vel aliquam quis, iaculis vel magna. Pellentesque semper mi non consequat imperdiet. Phasellus quis erat mollis, elementum metus a, tempus sapien. Nunc convallis velit eget nisl aliquam aliquet. Morbi fringilla semper mi, nec blandit purus. Integer vitae ipsum ut tortor sodales sodales in eget sem.</string>
+</resources>
